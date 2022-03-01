@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BrynNewman
 - 👀 I’m interested in Video Games, Music, Food and Web Development
 - 🌱 I’m currently learning React.js, Vue.js, Firebase, Stripe and many others
-- 💞️ I’m looking to collaborate on anything and eerything
+- 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me bryn.m.newman@gmail.com
 
 <!---
