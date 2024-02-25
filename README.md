@@ -5,9 +5,9 @@
 - 📫 How to reach me bryn.m.newman@gmail.com
 
 ## Technologies and Languages
-**Languages:** Java, JavaScript/TypeScript, Go, Python, SQL, C++, C#
-**Skills:** Selenium, Cypress, Playwright, Jest, WebDriver, Vue, React, GCP, Git, Postman, GitHub Actions
-**Other:** JIRA, Zephyr Squad, Bug tracking, Test automation, Leadership, Agile/Scrum, Customer Service
+**Languages:** Java, JavaScript/TypeScript, Go, Python, SQL, C++, C#  
+**Skills:** Selenium, Cypress, Playwright, Jest, WebDriver, Vue, React, GCP, Git, Postman, GitHub Actions  
+**Other:** JIRA, Zephyr Squad, Bug tracking, Test automation, Leadership, Agile/Scrum, Customer Service  
 
 ## Work Experience
 ### Quality Assurance Engineer | WTFast | May 2022–Dec 2023
